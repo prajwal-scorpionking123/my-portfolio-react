@@ -6,7 +6,7 @@ import Menus from "./components/Menus";
 import Project from "./components/Project";
 import ThemeContext from "./context/ThemeContext";
 const Portfolio = () => {
-  // const themeHook = useState("light");
+
   return (
     <Base>
       <div className="container">
