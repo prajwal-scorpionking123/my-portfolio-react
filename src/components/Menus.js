@@ -64,16 +64,16 @@ const Menus = ({history}) => {
                     Portfolio
                   </Link>
                 </li>
-                <li className="nav-item">
+                {/* <li className="nav-item">
                   <Link className="nav-link" style={currentTab(history, "/Contact",currectTheme.textColor)} to="/Contact">
                     Contact
                   </Link>
-                </li>
-                <li className="nav-item">
+                </li> */}
+                {/* <li className="nav-item">
                   <a className="nav-link" href="#">
                     Blog
                   </a>
-                </li>
+                </li> */}
                 <li className="nav-item">
                   <span className="nav-link" >
                     {appTheme==='light'?"Switch to Dark":"Switch to Light"}

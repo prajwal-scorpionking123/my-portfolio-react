@@ -15,7 +15,7 @@ const About = () => {
         <div className="col-sm-6 p-2">
           <div className="jumbotron"> 
           <h3>About Me</h3>
-          <span>I am Full Stack Web Developer and Flutter Enthusiast</span>
+          <span>I am a Full Stack Developer</span>
           <p class="mb-10">
             A passionate and enthusiastic Computer Science Student who loves to
             learn and implement the knowledge practically. Proficient in
@@ -29,7 +29,7 @@ const About = () => {
           </p>
           <span>Current Focus:Flutter||Django||React-Js</span>
           <p>
-            <a href="prajwalsResume.pdf" class="butn mt-30">
+            <a href="https://drive.google.com/file/d/1u3vodvJAor-ZwywiNnhzaGz5ciiWdHfP/view?usp=sharing" target="_blank" class="btn btn-dark">
               View Resume
             </a>
           </p>

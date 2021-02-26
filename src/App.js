@@ -9,6 +9,7 @@ import About from "./About";
 import SocialMedia from "./components/SocialMedia";
 import Routes from './Routes';
 import Base from "./components/Base";
+import Footer from "./components/Footer";
 // const preloader = () => {
 //   return (
 //     <div style={{ marginLeft: "45%", marginTop: "15%" }}>
@@ -38,6 +39,7 @@ function App() {
       <div>  
       <TypedAnimation></TypedAnimation>
       <SocialMedia></SocialMedia>
+      <Footer></Footer>
       </div>   
           
     </Base>
